@@ -1,0 +1,26 @@
+Degrees to Radians:
+To convert degrees to radians, you can use the following formula:
+radians = (pi/180) * degrees
+
+To convert 45 degrees to radians:
+radians =(pi/180)*45
+
+radiens = pi/4
+
+Radians to Degrees:
+To convert degrees to radians, you can use the following formula:
+radians = (180/pi) * degrees
+
+To convert pi/3 Radians to Degrees:
+radians =(180/pi)*45= pi/3
+
+Degrees = 60
+ 
+ 
+ Important Notes:
+A full circle is 
+360∘
+
+ or
+  
+2π radians.

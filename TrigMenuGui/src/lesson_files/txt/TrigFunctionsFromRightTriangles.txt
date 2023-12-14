@@ -1,0 +1,41 @@
+Trigonometric Functions:
+Trigonometric functions are mathematical functions that relate the angles of a triangle to the ratios of its sides. These functions are widely used in mathematics, physics, engineering, and various other scientific disciplines.
+
+Key Trigonometric Functions:
+1. Sine Function (sin):
+In a right-angled triangle, the sine of an angle (
+
+θ) is the ratio of the length of the side opposite the angle to the hypotenuse.
+Mathematically, for a right triangle with angle θ:
+⁡
+sin(θ)=Opposite/Hypotenusesin
+​
+ 
+2. Cosine Function (cos):
+The cosine of an angle (θ) is the ratio of the length of the side adjacent to the angle to the hypotenuse.
+In a right triangle:
+cos
+⁡
+cos(θ)= Adjacent/Hypotenuse
+
+​
+ 
+3. Tangent Function (tan):
+
+⁡
+
+The tangent of an angle (θ) is the ratio of the length of the side opposite the angle to the side adjacent to the angle.
+In a right triangle:
+
+tan(θ)= Opposite/Adjacent
+
+1. Cosecant Function  (csc or cosec):
+The cosecant function is the reciprocal of the sine function.
+csc(θ): 1/sin(θ)
+
+3. Cotangent Function (cot or ctg):
+The cotangent function is the reciprocal of the tangent function.
+cot(θ)=1/tan(θ)
+​or
+cot(θ)=sin(θ)/cos(θ)​.
+​

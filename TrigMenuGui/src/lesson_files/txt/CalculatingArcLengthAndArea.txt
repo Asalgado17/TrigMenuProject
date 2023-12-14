@@ -1,0 +1,36 @@
+Arc Length:
+The arc length is the distance along the curved line of a circle's circumference, corresponding to a given central angle. 
+The formula for arc length (s) is given by:
+
+
+
+s=r×θ
+
+s is the arc length,
+
+r is the radius of the circle, and
+
+θ is the central angle (in radians).
+Example:
+If a circle has a radius of 5 units and a central angle of 3/π radians, 
+the arc length would be 5× 3/π units.
+
+Area of a Sector:
+The area of a sector is the region enclosed by an arc and two radii drawn to the endpoints of the arc. 
+The formula for the area of a sector (A) is given by:
+
+A= 1/2r^2θ
+
+
+A is the area of the sector
+r is the radius of the circle
+θ is the central angle (in radians).
+
+Example:
+If a circle has a radius of 7 units and a central angle of 4/π radians, the area of the sector would be 
+1/2×7^2= pi/4 square units
+​
+
+Important Note:
+Make sure that the central angle is in radians when using these formulas. If your angle is in degrees, you may need to convert it to radians first.
+

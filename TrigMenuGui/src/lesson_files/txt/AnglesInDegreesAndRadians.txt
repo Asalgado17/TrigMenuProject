@@ -1,0 +1,97 @@
+Lesson Angles in Degrees and Radians
+
+Objective: Understand the different types of angles In this lesson we will learn about angles in both degrees and radians, along with special terms to help identify different angle positions.
+
+
+Angles 
+
+An angle can be identified in degrees or radians. 
+
+Radian:
+
+Imagine you have a circle. The center of the circle is a point called the origin, and from this point, there's a line extending to the edge of the circle. This line is called the radius.
+
+Now, let's say you start walking along the edge of the circle following the curvature. As you walk, you measure the angle formed at the center (the origin) between the starting position, the center, and your current position on the circle.
+
+If the arc length you walked along the circle is exactly the same as the length of the radius, then the angle you've just measured is one radian.
+
+
+
+Think of the cartesian plane, a two-dimensional coordinate plane formed by the intersection of two perpendicular lines graph with the horizontal line being the x-axis and the vertical line being the y-axis There are four quadrants. We identify the quadrants from their signs. 
+
+Q1: (+,+)
+Q2: (-,+)
+Q3 : (-,-)
+Q4: (+,-)
+
+
+Lets identify some basic angles:
+From as we know it they are 
+
+
+Right 90° 
+On the graph from start to end of Q1 is a 90° right angle OR  2/pi radian
+
+
+
+Acute 45° 
+On the graph from start of Q1 to the half point of Q1 is a 45° acute angle OR pi/4 radian
+
+
+Obtuse 180° 
+On the graph from start of Q1 to the end point of Q2 is a 180° obtuse  angle OR  4/9pi radian
+
+
+Coterminal Angles 
+
+
+
+Definition: Coterminal angles are angles that share the same initial and terminal sides. In other words, if you start at a certain angle and make one or more complete revolutions around a circle, you end up at the same side. 
+
+
+Example for degrees: 
+ Consider an angle in 90 degree position (with its initial side along the positive x-axis). The angle is said to be in standard position when its initial side is on the positive x-axis. The angle in the 90-degree position, any angle coterminal with it can be obtained by adding or subtracting 360° .
+
+The coterminal angles of 90° degrees is 450°  and -270° 
+
+How we got that:  90° + 360°  =  450°  (positive coterminal)
+
+
+How we got that:  90° - 360°  =  -270° (negative coterminal)
+
+
+Please observe how their is both a positive and a negative coterminal.
+
+What does this tell us?
+
+For any angle in standard position, there are always pairs of coterminal angles that differ by 360 degrees. Adding or subtracting 360 degrees (or multiples of it) gives you another angle ending in the same position. This explains why there are both positive and negative coterminal angles for 90 degrees.
+
+
+Example for radians: 
+Coterminal angles in radians share the same initial and terminal sides. In standard position, coterminal angles can be obtained by adding or subtracting  2pi radians.
+
+Note: remember 2/pi is at the same position as 90°  
+
+At  2/pi our coterminals are 
+
+
+Supplemental Angles 
+
+Basics of Supplemental Angles:
+
+Definition:
+Supplemental angles are pairs of angles whose measures add up to 180 degrees.
+
+Key Concept:
+The sum of the measures of a pair of supplemental angles is always 180 degrees.
+
+
+Example:
+
+If angle A measures 120 degrees, its supplement (angle B) will measure 60 degrees because 
+120°  + 60° = 180°
+
+Identifying Supplemental Angles:
+Characteristics:
+Two angles are supplemental if their measures add up to 180 degrees.
+Supplemental angles can be adjacent (sharing a common arm and vertex) or non-adjacent.
